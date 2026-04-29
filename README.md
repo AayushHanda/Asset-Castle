@@ -1,6 +1,14 @@
-# Asset Castle 🏰
+# Asset Castle - Asset Management App
 
-**Asset Castle** is a modern, enterprise-grade Flutter application designed for seamless IT Asset and Employee Management. Built with a clean architecture and Riverpod for robust state management, this application enables organizations to track hardware, assign assets to employees, generate QR codes, and monitor complete asset lifecycles in real-time.
+<p align="center">
+  <img src="assets/images/app_logo.png" width="100" alt="Asset Castle Logo" />
+</p>
+
+<p align="center">
+  <b>**Asset Castle** is a modern, enterprise-grade Flutter application designed for seamless IT Asset and Employee Management.</b><br/>
+  Built with a clean architecture and Riverpod for robust state management, this application enables organizations to track hardware, assign assets to employees, generate QR codes, and monitor complete asset lifecycles in real-time.
+</p>
+ 
 
 <p align="center">
      <img width="30%" alt="image" src="https://github.com/user-attachments/assets/e17d84f2-f122-4ef8-ae6a-92eb3b8314dd" />
