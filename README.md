@@ -3,19 +3,19 @@
 **Asset Castle** is a modern, enterprise-grade Flutter application designed for seamless IT Asset and Employee Management. Built with a clean architecture and Riverpod for robust state management, this application enables organizations to track hardware, assign assets to employees, generate QR codes, and monitor complete asset lifecycles in real-time.
 
 <p align="center">
-     <img width="243" height="527" alt="image" src="https://github.com/user-attachments/assets/e17d84f2-f122-4ef8-ae6a-92eb3b8314dd" />
-     <img width="243" height="527" alt="image" src="https://github.com/user-attachments/assets/4392e7bf-a5c6-417d-963f-6b0a924aa9f1" />
-     <img width="243" height="527" alt="image" src="https://github.com/user-attachments/assets/e2160882-440e-49f2-a166-4dbab8a1883c" />
+     <img width="30%" alt="image" src="https://github.com/user-attachments/assets/e17d84f2-f122-4ef8-ae6a-92eb3b8314dd" />
+     <img width="30%" alt="image" src="https://github.com/user-attachments/assets/4392e7bf-a5c6-417d-963f-6b0a924aa9f1" />
+     <img width="30%" alt="image" src="https://github.com/user-attachments/assets/e2160882-440e-49f2-a166-4dbab8a1883c" />
   </p>
 <p align="center">
-     <img width="243" height="527" alt="image" src="https://github.com/user-attachments/assets/4a6bd141-1641-45ac-9831-4ce7c62c6298" />
-     <img width="243" height="527" alt="image" src="https://github.com/user-attachments/assets/b56121c8-b4b1-4795-82f9-748599a890ab" />
-     <img width="243" height="527" alt="image" src="https://github.com/user-attachments/assets/564dea0f-0cf2-4a08-a9b0-c76278e9dc87" />
+     <img width="30%" alt="image" src="https://github.com/user-attachments/assets/4a6bd141-1641-45ac-9831-4ce7c62c6298" />
+     <img width="30%" alt="image" src="https://github.com/user-attachments/assets/b56121c8-b4b1-4795-82f9-748599a890ab" />
+     <img width="30%" alt="image" src="https://github.com/user-attachments/assets/564dea0f-0cf2-4a08-a9b0-c76278e9dc87" />
   </p>
 <p align="center">
-     <img width="243" height="527" alt="image" src="https://github.com/user-attachments/assets/96ba481f-8fe7-4020-bb66-247cb0c47780" />
-     <img width="243" height="527" alt="image" src="https://github.com/user-attachments/assets/d3f1d414-1ebf-4d3f-8d72-f9ac4dcea2b1" />
-     <img width="243" height="527" alt="image" src="https://github.com/user-attachments/assets/57291a2e-1da1-4edd-b671-d5970a25176b" />
+     <img width="30%" alt="image" src="https://github.com/user-attachments/assets/96ba481f-8fe7-4020-bb66-247cb0c47780" />
+     <img width="30%" alt="image" src="https://github.com/user-attachments/assets/d3f1d414-1ebf-4d3f-8d72-f9ac4dcea2b1" />
+     <img width="30%" alt="image" src="https://github.com/user-attachments/assets/57291a2e-1da1-4edd-b671-d5970a25176b" />
 </p>
 
 ---
