@@ -98,6 +98,30 @@ class _RegisterScreenState extends ConsumerState<RegisterScreen> {
               child: Column(
                 children: [
                   // Header
+                  Container(
+                    width: 80,
+                    height: 80,
+                    margin: const EdgeInsets.only(bottom: 16),
+                    decoration: BoxDecoration(
+                      borderRadius: BorderRadius.circular(20),
+                      boxShadow: [
+                        BoxShadow(
+                          color: isDark 
+                              ? Colors.black.withValues(alpha: 0.5) 
+                              : AppColors.primary.withValues(alpha: 0.2),
+                          blurRadius: 20,
+                          offset: const Offset(0, 8),
+                        ),
+                      ],
+                    ),
+                    child: ClipRRect(
+                      borderRadius: BorderRadius.circular(20),
+                      child: Image.asset(
+                        'assets/logo.png',
+                        fit: BoxFit.cover,
+                      ),
+                    ),
+                  ),
                   Text(
                     'Join Asset Castle',
                     style: Theme.of(context).textTheme.headlineMedium?.copyWith(

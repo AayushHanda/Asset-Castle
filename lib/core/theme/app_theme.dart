@@ -16,7 +16,7 @@ class AppTheme {
         secondary: AppColors.secondary,
         surface: AppColors.darkSurface,
         error: AppColors.error,
-        onPrimary: Colors.white,
+        onPrimary: AppColors.textOnPrimary,
         onSecondary: Colors.white,
         onSurface: AppColors.textOnDark,
         onError: Colors.white,
@@ -63,7 +63,7 @@ class AppTheme {
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
           backgroundColor: AppColors.primary,
-          foregroundColor: Colors.white,
+          foregroundColor: AppColors.textOnPrimary,
           elevation: 0,
           padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 14),
           shape: RoundedRectangleBorder(
@@ -122,7 +122,7 @@ class AppTheme {
       ),
       floatingActionButtonTheme: const FloatingActionButtonThemeData(
         backgroundColor: AppColors.primary,
-        foregroundColor: Colors.white,
+        foregroundColor: AppColors.textOnPrimary,
         elevation: 4,
       ),
       bottomNavigationBarTheme: const BottomNavigationBarThemeData(
@@ -173,7 +173,7 @@ class AppTheme {
         secondary: AppColors.secondary,
         surface: AppColors.lightSurface,
         error: AppColors.error,
-        onPrimary: Colors.white,
+        onPrimary: AppColors.textOnPrimary,
         onSecondary: Colors.white,
         onSurface: AppColors.textDark,
         onError: Colors.white,
@@ -220,7 +220,7 @@ class AppTheme {
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
           backgroundColor: AppColors.primary,
-          foregroundColor: Colors.white,
+          foregroundColor: AppColors.textOnPrimary,
           elevation: 0,
           padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 14),
           shape: RoundedRectangleBorder(
@@ -279,7 +279,7 @@ class AppTheme {
       ),
       floatingActionButtonTheme: const FloatingActionButtonThemeData(
         backgroundColor: AppColors.primary,
-        foregroundColor: Colors.white,
+        foregroundColor: AppColors.textOnPrimary,
         elevation: 4,
       ),
       bottomNavigationBarTheme: const BottomNavigationBarThemeData(

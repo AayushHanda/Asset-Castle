@@ -278,20 +278,23 @@ class _LoginScreenState extends ConsumerState<LoginScreen>
           width: 80,
           height: 80,
           decoration: BoxDecoration(
-            gradient: AppColors.primaryGradient,
             borderRadius: BorderRadius.circular(20),
             boxShadow: [
               BoxShadow(
-                color: AppColors.primary.withValues(alpha: 0.4),
+                color: isDark 
+                    ? Colors.black.withValues(alpha: 0.5) 
+                    : AppColors.primary.withValues(alpha: 0.2),
                 blurRadius: 20,
                 offset: const Offset(0, 8),
               ),
             ],
           ),
-          child: const Icon(
-            Icons.castle_rounded,
-            color: Colors.white,
-            size: 40,
+          child: ClipRRect(
+            borderRadius: BorderRadius.circular(20),
+            child: Image.asset(
+              'assets/logo.png',
+              fit: BoxFit.cover,
+            ),
           ),
         ),
         const SizedBox(height: 16),
